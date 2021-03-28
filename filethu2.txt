@@ -13,3 +13,4 @@ Tại git 4 thay đổi data
 Làm lại là cập nhập git 4444 để push lên Data
 <<<<<<< HEAD
 Sửa lai cho dung
+Đói rồi
