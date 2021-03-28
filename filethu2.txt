@@ -22,3 +22,5 @@ Làm lại là cập nhập git 4444 để push lên Data
 >>>>>>> 1527124de50ceac97d43e7aaf274f4a8069a974d
 =======
 >>>>>>> 1527124de50ceac97d43e7aaf274f4a8069a974d
+
+Sửa lại cho dúng
