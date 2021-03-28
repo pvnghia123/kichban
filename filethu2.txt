@@ -1,3 +1,5 @@
 Da thay doi
 Thay dôi lan 2
 Thay đổi lần 2 tại chỗ khác
+
+Tại git 1 thay đỏi data
