@@ -3,3 +3,7 @@ Thay dôi lan 2
 Thay đổi lần 2 tại chỗ khác
 
 Tại git 1 thay đỏi data
+Đã cập nhập thành công và push lên
+
+
+Tại git 4 thay đổi data
